@@ -1,12 +1,12 @@
 {
-  "url": "https://mjmjmj.name",
+  "url": "https://github.githubassets.com",
   "name": "Test Bot",
   "version": "1.0.0",
-  "iconUrl": "https://mjmjmj.name/assets/icon.png",
-  "termsOfUseUrl": "https://mjmjmj.name/terms",
-  "privacyPolicyUrl": "https://mjmjmj.name/privacy",
+  "iconUrl": "https://github.githubassets.com/favicons/favicon.png",
+  "termsOfUseUrl": "https://raw.githubusercontent.com/mjmichael73/terms",
+  "privacyPolicyUrl": "https://raw.githubusercontent.com/mjmichael73/privacy",
   "webApp": {
-    "url": "https://mjmjmj.name/miniapp"
+    "url": "https://raw.githubusercontent.com/mjmichael73"
   },
   "dapp": {
     "wallets": ["tonkeeper", "tonhub"],
