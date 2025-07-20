@@ -1,0 +1,17 @@
+{
+  "url": "https://mjmjmj.name",
+  "name": "ProofGate",
+  "version": "1.0.0",
+  "iconUrl": "https://mjmjmj.name/assets/icon.png",
+  "termsOfUseUrl": "https://mjmjmj.name/terms",
+  "privacyPolicyUrl": "https://mjmjmj.name/privacy",
+  "webApp": {
+    "url": "https://mjmjmj.name/miniapp"
+  },
+  "dapp": {
+    "wallets": ["tonkeeper", "tonhub"],
+    "connect": {
+      "permissions": ["ton_client", "ton_sign"]
+    }
+  }
+}
